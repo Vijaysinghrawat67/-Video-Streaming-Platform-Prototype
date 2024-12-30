@@ -1,0 +1,7 @@
+{
+    "singleQutoe" : false,
+    "brecketSpacing" : true,
+    "tawidth" : 2,
+    "trailingComma" : "es5",
+    "semi" : true
+}
